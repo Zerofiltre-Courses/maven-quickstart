@@ -1,4 +1,4 @@
-# maven-quickstart
+# Maven lifecycle demo
 Exemple pour démontrer comment fonctionne les cycles de vies maven
 
 
